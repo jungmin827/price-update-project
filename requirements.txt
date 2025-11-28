@@ -1,0 +1,11 @@
+pydantic
+python-dotenv
+requests
+beautifulsoup4
+gspread
+google-auth
+google-auth-oauthlib
+playwright
+streamlit
+schedule
+
